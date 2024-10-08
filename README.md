@@ -22,7 +22,7 @@
 - [Датчик и дисплей](https://wokwi.com/projects/410525505774783489)
 
 - 
-- ПРОЕКТ
-- Система умного дома на Arduino
+- <p align="center"> <strong>ПРОЕКТ</strong> </p>
+- [Система умного дома на Arduino](https://github.com/Vladislav-fesc/Smart-home-system-on-Arduino)
 
 
