@@ -23,5 +23,6 @@
 - 
 - <p align="center"> <strong>ПРОЕКТ</strong> </p>
 - [Система умного дома на Arduino](https://github.com/Vladislav-fesc/Smart-home-system-on-Arduino)
-
+- <p align="center"> <strong>Лабораторная работа</strong> </p>
+- [Копия HAL]([https://github.com/Vladislav-fesc/Smart-home-system-on-Arduino](https://github.com/Vladislav-fesc/Lab2/blob/main/README.md))
 
